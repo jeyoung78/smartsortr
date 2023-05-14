@@ -1,4 +1,4 @@
-# smartsortr
+# smartsortr (TurtleHacks 2023 Submission)
 
 ## Inspiration
 We've all seen people throwing their trash in the recycling and vice-versa, and it happens so commonly that our recycling processes have become very inefficient. Whether this is because people don't know where their waste should go, or don't want to spend the time to find out what the proper disposal method is, we have created a simple solution that will make recycling easier for anyone!
