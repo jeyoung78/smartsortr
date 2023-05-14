@@ -13,7 +13,7 @@ During our hacking day on Saturday, we learned a lot about computer vision, and 
 ## What we learned
 During the hackathon, we learned how to work as a team and delegate tasks effectively. We also gained lots of technical experience across Python, TensorFlow, OpenCV, working with APIs, and hardware.
 ## What's next for SmartSortr
-The system we've came up with seems to be a basic, cheap, and scalable solution for the waste sorting problem, but there are of course many challenges and knacks to work through. Here are a few things we have in mind:
+The system we've came up with seems to be a basic, cheap, and scalable solution for the waste sorting problem, but there are of course many challenges and knacks to work through. Here are a couple things we have in mind:
 
 - It may be best to employ this solution in a waste sorting facility as opposed to at the bin itself, since there can be errors with the device, and people may still choose to ignore it. 
 - There an inherent issue with a strictly an image input, as the model will not be able to detect composition of the material, which is an important part in waste sorting.
