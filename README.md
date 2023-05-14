@@ -1,4 +1,4 @@
-[<img src="https://ibb.co/hF34kYn" width="50%">](https://www.youtube.com/watch?v=eiyIssjg2K0 "SmartSortr")
+[<img src="https://ibb.co/hF34kYn.jpg" width="50%">](https://www.youtube.com/watch?v=eiyIssjg2K0 "SmartSortr")
 
 # smartsortr (TurtleHacks 2023 Submission)
 
