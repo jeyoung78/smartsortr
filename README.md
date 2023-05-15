@@ -26,4 +26,4 @@ Overall we had a great time at TurtleHacks, and learned a lot! Thank you to the 
 
 ## Why is there only one file here?
 
-Git LFS isn't being nice to me and I'm getting pretty tired (its 4am) so I've uploaded the custom model here: https://drive.google.com/drive/folders/1ymgEhrelzn36dccISq2G5YpCx66Ghs-P?usp=sharing
+Git LFS isn't being nice to me (out of free space) and I'm getting pretty tired (its 4am) so I've uploaded the custom model here: https://drive.google.com/drive/folders/1ymgEhrelzn36dccISq2G5YpCx66Ghs-P?usp=sharing
