@@ -3,7 +3,7 @@
 # smartsortr (TurtleHacks 2023 Submission)
 
 ## Inspiration
-We've all seen people throwing their trash in the recycling and vice-versa, and it happens so commonly that our recycling processes have become very inefficient. Whether this is because people don't know where their waste should go, or don't want to spend the time to find out what the proper disposal method is, we have created a simple solution that will make recycling easier for anyone!
+We've all seen people throwing their trash in the recycling and vice-versa, and as a result our recycling processes have become extremely inefficient. Whether this is because people don't know where their waste should go, or don't want to spend the time to find out what the proper disposal method is, we have created a simple solution that will make recycling easier for anyone!
 ## What it does
 We've essentially created a small hardware unit including a camera with an LED output, which uses the power of machine learning to detect what someone is going to throw in the garbage or recycling. Our unit will recognize objects through a camera, and simply tell a person in front of the bin where their waste should go.
 ## How we built it
