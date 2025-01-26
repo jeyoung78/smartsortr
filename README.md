@@ -1,5 +1,3 @@
-
-
 # smartsortr (TurtleHacks 2023 Submission)
 
 ## Inspiration
