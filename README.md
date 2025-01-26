@@ -1,4 +1,4 @@
-[<img src="https://i.ibb.co/60jT2Xp/Screenshot-2023-05-14-at-4-27-46-AM.png" width="50%">](https://www.youtube.com/watch?v=eiyIssjg2K0 "SmartSortr")
+
 
 # smartsortr (TurtleHacks 2023 Submission)
 
@@ -6,6 +6,7 @@
 We've all seen people throwing their trash in the recycling and vice-versa, and as a result our recycling processes have become extremely inefficient. Whether this is because people don't know where their waste should go, or don't want to spend the time to find out what the proper disposal method is, we have created a simple solution that will make recycling easier for anyone!
 ## What it does
 We've essentially created a small hardware unit including a camera with an LED output, which uses the power of machine learning to detect what someone is going to throw in the garbage or recycling. Our unit will recognize objects through a camera, and simply tell a person in front of the bin where their waste should go.
+[<img src="https://i.ibb.co/60jT2Xp/Screenshot-2023-05-14-at-4-27-46-AM.png" width="50%">](https://www.youtube.com/watch?v=eiyIssjg2K0 "SmartSortr")
 ## How we built it
 We had two main approaches to this problem, the first was training our own model, and the second using external API's. When training our own model, we used the built-in functionality of TensorFlow to train a CNN off of our own images of garbage or recycling, as well as images off of the internet. We used [labelimg](https://github.com/heartexlabs/labelImg) for annotation of the training set, and OpenCV for image preprocessing of the captured photos. On the second approach which came a lot easier, we use OpenCV for the image preprocessing and then call the [Mantis Object Detection API](https://rapidapi.com/ja/mantis-object-detection-mantis-object-detection-default/api/mantis-object-detection/) via ResNet-50 to return an accurate object detection, which then determines how we will interact with the hardware. For example, if our system detects a plastic bottle, our LED will quickly tell the user to throw the bottle in the recycling bin.
 ## Challenges we ran into
